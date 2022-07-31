@@ -1,6 +1,6 @@
 # WAVE-GT-OCTimage
 
-Shiliang Lou, Xiaodong Chen*, Yi Wang, Huaiyu Cai, Si Chen and Linbo Liu*. A joint segmentation framework for retinal optical coherence tomography images using bidirectional wave algorithm and improved graph theory
+Shiliang Lou, Xiaodong Chen*, Yi Wang, Huaiyu Cai, Si Chen and Linbo Liu*. A multiscale joint segmentation method for retinal optical coherence tomography images using bidirectional wave algorithm and improved graph theory.
  
  
 The paper is being submitted, and we will release the final version when the paper is officially released.
